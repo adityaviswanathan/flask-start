@@ -1,0 +1,3 @@
+DEBUG = True
+SECRET_KEY = 'k#\xc7\x95\xf0\xfc\xb8\xbb1\x03\x83\x18\xa7\x1c\xa4\xe1_:\xc33\xed\xcaW\xa2'
+SQLALCHEMY_DATABASE_URI = 'postgresql://localhost/av_opinions'

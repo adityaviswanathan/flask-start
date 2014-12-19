@@ -1,0 +1,5 @@
+
+<div ng-repeat="user in users | orderBy: 'id':true ">
+	<h4><a href="/users/{{ user.id }}">{{ user.first_name }}</a></h4>
+	<p>{{ user.email }}<p>
+</div>
